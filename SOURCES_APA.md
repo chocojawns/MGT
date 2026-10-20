@@ -68,23 +68,23 @@ Creators of the following collection items were not identified in the supplied n
 
 ## Uploaded course materials
 
-Individual authors were not identified on the uploaded slide title pages. The organization credited on those materials is used provisionally; replace it if your course provides the actual slide author/editor. These entries cite the files used, not an unverified textbook edition’s author list. Local repository links identify the materials; if your instructor requires LMS links, substitute the authenticated course links at submission.
+Individual authors were not identified on the uploaded slide title pages. The organization credited on those materials is used provisionally; replace it if your course provides the actual slide author/editor. These entries cite the files used, not an unverified textbook edition’s author list. Chapter files have been removed from the current repository at the presenters’ request; the citations remain because those materials informed the presentation. Earlier copies remain in Git history. If your instructor requires LMS links, add the authenticated course links at submission.
 
-Pearson Education. (2020a). *Chapter 1: Managers and management in today’s workplace* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. [Chapter 1.pptx](Chapter%201.pptx)
+Pearson Education. (2020a). *Chapter 1: Managers and management in today’s workplace* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. Course file: `Chapter 1.pptx` (removed from the current repository; retained in Git history).
 
-Pearson Education. (2020b). *Chapter 2: The management environment* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. [Chapter 2.pptx](Chapter%202.pptx)
+Pearson Education. (2020b). *Chapter 2: The management environment* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. Course file: `Chapter 2.pptx` (removed from the current repository; retained in Git history).
 
-Pearson Education. (2020c). *Chapter 3: Important managerial issues* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. [Chapter 3.pptx](Chapter%203.pptx)
+Pearson Education. (2020c). *Chapter 3: Important managerial issues* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. Course file: `Chapter 3.pptx` (removed from the current repository; retained in Git history).
 
-Pearson Education. (2020d). *Chapter 4: Making decisions* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. [Chapter 4.pptx](Chapter%204.pptx)
+Pearson Education. (2020d). *Chapter 4: Making decisions* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. Course file: `Chapter 4.pptx` (removed from the current repository; retained in Git history).
 
-Pearson Education. (2020e). *Chapter 5: Planning and goal setting* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. [Chapter 5.pptx](Chapter%205.pptx)
+Pearson Education. (2020e). *Chapter 5: Planning and goal setting* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. Course file: `Chapter 5.pptx` (removed from the current repository; retained in Git history).
 
-Pearson Education. (2020f). *Chapter 6: Managing change and innovation* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. [Chapter 6.pptx](Chapter%206.pptx)
+Pearson Education. (2020f). *Chapter 6: Managing change and innovation* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. Course file: `Chapter 6.pptx` (removed from the current repository; retained in Git history).
 
-Pearson Education. (2020g). *Chapter 8: Organizational structure and design* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. [Chapter 8.pptx](Chapter%208.pptx)
+Pearson Education. (2020g). *Chapter 8: Organizational structure and design* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. Course file: `Chapter 8.pptx` (removed from the current repository; retained in Git history).
 
-Pearson Education. (2020h). *Chapter 9: Managing human resources and diversity* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. [Chapter 9.pptx](Chapter%209.pptx)
+Pearson Education. (2020h). *Chapter 9: Managing human resources and diversity* [PowerPoint slides accompanying Fundamentals of Management, 11th ed.]. Course file: `Chapter 9.pptx` (removed from the current repository; retained in Git history).
 
 Prentice Hall. (2005). *History Module-1* [Management-history lecture slides]. [History Module-1.pdf](History%20Module-1.pdf)
 
